@@ -1,2 +1,3 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="CanalRCN.co" tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="General",Canal RCN
 http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
