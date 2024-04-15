@@ -1,0 +1,628 @@
+#EXTM3U
+#EXTINF:-1 group-title="Bics", MX: GOLDEN
+#EXTVLCOPT--http-reconnect=true
+https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: GOLDEN
+#EXTVLCOPT--http-reconnect=true
+https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: GOLDEN
+#EXTVLCOPT--http-reconnect=true
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: GOLDEN PLUS
+#EXTVLCOPT--http-reconnect=true
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+***** https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
+***** https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: EDGE
+#EXTVLCOPT--http-reconnect=true
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",ANIMAL PLANET
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/2
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",CINECANAL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/10
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",CINEMAX
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/11
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",COMEDY CENTRAL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/13
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",DE PELICULA
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/14
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",DISCOVERY CHANNEL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/15
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",DISCOVERY HOME AND HEALTH
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/16
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",DISCOVERY ID
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/17
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",DISCOVERY SCIENCE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/19
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",DISCOVERY THEATER
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/20
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",DISCOVERY TURBO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/21
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",DISCOVERY WORLD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/22
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",LIFETIME
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/159
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/30
+#EXTINF:-1 group-title="Bics Extra US",Lifetime Movie Network
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/624
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",GOURMET
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/35
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",HISTORY CHANNEL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/36
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",NATGEO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/40
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",SONY
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/42
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",SPACE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/43
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",STUDIO UNIVERSAL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/44
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",WARNER
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/52
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",A&E
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/61
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",AMC
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/67
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",AXN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/69
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",US DISCOVERY EN ESPANOL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/136
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",US DISCOVERY FAMILIA
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/137
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",STAR - FOX
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/147
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",FX
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/148
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",HBO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/152
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",HBO 2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/153
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",TNT
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/171
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",TNT SERIES
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/172
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",ADULT SWIM
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/174
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",UNIVERSAL TV
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/176
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",HISTORY EN ESPAÑOL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/461
+#EXTINF:-1 group-title="Bics Extra US",US HBO LATINO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/510
+#EXTINF:-1 group-title="Bics Extra US",US STARZ ENCORE WEST
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/512
+#EXTINF:-1 group-title="Bics Extra US",US STARZ ENCORE WESTERNS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/513
+#EXTINF:-1 group-title="Bics Extra US",US STARZ ENCORE ACTION
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/516
+#EXTINF:-1 group-title="Bics Extra US",US STARZ ENCORE BLACK
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/517
+#EXTINF:-1 group-title="Bics Extra US",US STARZ WEST
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/521
+#EXTINF:-1 group-title="Bics Extra US",US STARZ ENCORE ESPANOL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/522
+#EXTINF:-1 group-title="Bics Extra US",US STARZ ENCORE EAST
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/523
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",GOLDEN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/571
+#EXTINF:-1 group-title="Bics Extra US",USA STARMAX
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/580
+#EXTINF:-1 group-title="Bics Extra Internacional",PR WIPR
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/598
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",GOLDEN EDGE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/617
+#EXTINF:-1 group-title="Bics Extra US",USA Network (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/191
+#EXTINF:-1 group-title="Bics Extra INFINITV",Discovery Turbo
+http://167.114.156.136:25461/INFINITV/ZX89NM22/230
+
+
+
+
+
+
+
+
+*****Novelas
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",PASIONES
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/164
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",COL RCN NOVELAS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/166
+#EXTINF:-1 group-title="Bics Extra US",US TELEMUNDO LOS ANGELES
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/480
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/485
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/486
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/487
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/483
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/488
+#EXTINF:-1 group-title="Bics Extra US",US TELEMUNDO LOS ANGELES
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/481
+#EXTINF:-1 group-title="Bics Extra US",US TELEMUNDO DENVER
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/484
+#EXTINF:-1 group-title="Bics Extra US",US TELEMUNDO SAN FRANCISCO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/482
+#EXTINF:-1 group-title="Bics Extra US",US UNIVISION ATLANTA
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/494
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/495
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/498
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/499
+#EXTINF:-1 group-title="Bics Extra US",US UNIVISION PHONIX
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/500
+#EXTINF:-1 group-title="Bics Extra Internacional",ES TVE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/526
+#EXTINF:-1 group-title="Bics Extra US",TELEMUNDO LAS VEGAS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/621
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/623
+#EXTINF:-1 group-title="Bics Extra US",TELEMUNDO BOSTON
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/622
+#EXTINF:-1 group-title="Bics",Milenio TV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/88
+#EXTINF:-1 group-title="Bics",Azteca Uno
+http://167.114.156.136:25461/INFINITV/ZX89NM22/82
+
+
+
+
+*****Musica
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",MTV
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/162
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",TELEHIT MUSICA PLUS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/168
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",TELERITMO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/169
+#EXTINF:-1 group-title="Bics Extra Latino",COL TELECAFE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/457
+#EXTINF:-1 group-title="Bics",MTV Live
+http://167.114.156.136:25461/INFINITV/ZX89NM22/108
+
+
+
+
+*****Canales Colombia
+#EXTINF:-1 group-title="Bics Extra Latino",COL RCN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/165
+#EXTINF:-1 group-title="Bics Extra Internacional",COL CARACOL INTERNACIONAL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/456
+#EXTINF:-1 group-title="Internacionales",CO: Caracol Op2
+http://167.114.156.136:25461/INFINITV/ZX89NM22/226
+#EXTINF:-1 tvg-id="AgendaAlDiaTV.co" group-title="News",Agenda Al Dia TV
+https://cp.panelchs.com:1936/8156/8156/playlist.m3u8
+#EXTINF:-1 tvg-id="ATNTelevision.co" group-title="",ATN Television
+https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="ATV.co" group-title="",ATV
+https://movil.ejeserver.com/live/verteve.m3u8
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" group-title="Entertainment",Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="AzufralCanalRegional.co" group-title="General",Azufral Canal Regional
+https://tvlatina.live:1936/8020/8020/playlist.m3u8
+#EXTINF:-1 tvg-id="BluRadio.co" group-title="General",Blu Radio
+https://ythls.armelin.one/channel/UCUYokk2dJxFZf7NgxTL-ROg.m3u8
+#EXTINF:-1 tvg-id="C4Television.co" group-title="General",C4 Television
+https://eu1.servers10.com:8081/8148/index.m3u8
+#EXTINF:-1 tvg-id="Cablenoticias.co" group-title="News",Cablenoticias
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+#EXTINF:-1 tvg-id="CableSurTV.co" group-title="General",Cable Sur TV
+https://tvlatina.live:1936/8012/8012/playlist.m3u8
+#EXTINF:-1 tvg-id="CaliTV.co" group-title="",CaliTV
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal1.co" group-title="General",Canal 1
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+#EXTINF:-1 tvg-id="Canal14Codazzi.co" group-title="Entertainment",Canal 14 Codazzi
+https://eu1.servers10.com:8081/8056/index.m3u8
+#EXTINF:-1 tvg-id="Canal2.co" group-title="General",Canal 2
+https://video13.virtualtronics.com/streamer/canal2.m3u8
+#EXTINF:-1 tvg-id="Canal2AlpavisionIbague.co" group-title="General",Canal 2 Alpavision Ibague
+https://stmv4.voxtvhd.com.br/alpavisionibague/alpavisionibague/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal2AlpavisionNeiva.co" group-title="General",Canal 2 Alpavision Neiva
+https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal55TelemoriscoTV.co" group-title="General",Canal 55 Telemorisco TV
+http://canal.mediaserver.com.co/live/telemorisco.m3u8
+#EXTINF:-1 tvg-id="Canal8TVPlus.co" group-title="General",Canal 8 TV+
+https://movil.ejeserver.com/live/canal8tv.m3u8
+#EXTINF:-1 tvg-id="Canal9.co" group-title="General",Canal 9
+https://video2.lhdserver.es/canal9cosespu/live.m3u8
+#EXTINF:-1 tvg-id="CanalCapital.co" group-title="General",Canal Capital
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
+#EXTINF:-1 tvg-id="CanaldelCongreso452.mx" tvg-logo="https://i.imgur.com/TtVZR5W.png" group-title="Legislative",Canal del Congreso 45.2
+https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanaldelCongreso453.mx" tvg-logo="https://i.imgur.com/DS3166S.png" group-title="Legislative",Canal del Congreso 45.3
+https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalDos.co" tvg-logo="https://i.imgur.com/BYsyNHZ.jpg" group-title="",Canal Dos
+https://canaldos.internetinalambrico.com.co:1936/live/canal2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalInstitucional.co" tvg-logo="https://i.imgur.com/CKnf3Ua.png" group-title="General",Canal Institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalMasTelevision.co" tvg-logo="https://i.imgur.com/ODMa27W.jpg" group-title="",Canal Mas Television
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 tvg-id="CanalMundoVision.co" tvg-logo="https://i.imgur.com/zRqfJuj.png" group-title="General",Canal Mundo Vision
+https://movil.ejeserver.com/live/mundovisiontv.m3u8
+#EXTINF:-1 tvg-id="CanalNets.co" tvg-logo="https://i.imgur.com/edaAexc.png" group-title="",Canal Nets
+https://movil.ejeserver.com/live/nets.m3u8
+#EXTINF:-1 tvg-id="CanalPyC.co" tvg-logo="https://i.imgur.com/3qxBDhV.png" group-title="",Canal PyC
+https://rpn3.bozztv.com/ssh101/ssh101/pyctelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalRCN.co" tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="General",Canal RCN
+http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalRegionalFTV.co" tvg-logo="https://i.imgur.com/HLM7Iet.jpg" group-title="General",Canal Regional FTV
+https://tvlatina.live:1936/8024/8024/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalSantaMartaTV.co" tvg-logo="https://i.imgur.com/HbWadhJ.png" group-title="General",Canal Santa Marta TV
+https://videosenlared.fullstreaming.ar:3046/live/yevothnflive.m3u8
+#EXTINF:-1 tvg-id="CanalTelefamilia.co" tvg-logo="https://i.imgur.com/D1s1Q3k.png" group-title="Religious",Canal Telefamilia
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalTelePalmar.co" tvg-logo="https://i.imgur.com/cAhlYUL.png" group-title="General",Canal TelePalmar
+https://play.amelbasoluciones.co:3976/live/telepalmartvlive.m3u8
+#EXTINF:-1 tvg-id="CanalTelesantiago.co" tvg-logo="https://i.imgur.com/DmkH5p8.jpg" group-title="Religious",Canal Telesantiago
+https://ythls.armelin.one/channel/UC0h1kkyzQGnS3yckpyqEJQw.m3u8
+#EXTINF:-1 tvg-id="CanalTRO.co" tvg-logo="https://i.imgur.com/bdBduvj.png" group-title="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Canal TRO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalTROPlus.co" tvg-logo="https://i.imgur.com/4lNPj9m.png" group-title="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Canal TRO +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalVIP.co" tvg-logo="https://i.imgur.com/SBo3FBY.png" group-title="",Canal VIP
+https://play.cdn.enetres.net/B9E570CFE54949C7ABB985D4F8F77F7F021/02267/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-logo="https://i.imgur.com/TerY4iM.png" group-title="",Canal Vision Dorada
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="",Caracol TV
+http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
+#EXTINF:-1 tvg-id="CarareTV.co" tvg-logo="https://i.imgur.com/rA9Y0Z1.jpg" group-title="General",Carare TV
+https://cp.panelchs.com:1936/8160/8160/playlist.m3u8
+#EXTINF:-1 tvg-id="ChamberofRepresentatives.co" tvg-logo="https://i.imgur.com/RbZEicf.png" group-title="Legislative",Chamber of Representatives
+https://ythls.armelin.one/channel/UCzescUFTh2jiZkYIx9uZtqA.m3u8
+#EXTINF:-1 tvg-id="CitytvBogota.co" tvg-logo="https://i.imgur.com/ybSn8tp.png" group-title="",Citytv Bogota
+https://ythls.armelin.one/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
+#EXTINF:-1 tvg-id="CiudadelaTV.co" tvg-logo="https://i.imgur.com/fXROn6g.jpg" group-title="General",CiudadelaTV
+https://cp.panelchs.com:1936/8096/8096/playlist.m3u8
+#EXTINF:-1 tvg-id="CNCHDOnline.co" tvg-logo="https://i.ibb.co/h246PMw/download-9.png" group-title="General",CNC HD Online
+https://hvtraficonew.ddns.net/pastocnc6/cnc6/playlist.m3u8
+#EXTINF:-1 tvg-id="CNCMedellin.co" tvg-logo="https://i.imgur.com/J1f4fNq.png" group-title="",CNC Medellin
+http://cncmedellin.ddns.net:1935/canalcnc/canalcnc_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="CNCMonteria.co" tvg-logo="https://cncmonteria.com/wp-content/uploads/2022/02/cropped-CNCMONTERUABLANCOCOOOO-300x108-1.png" group-title="",CNC Monteria
+https://stmv4.voxtvhd.com.br/cncmonteria/cncmonteria/playlist.m3u8
+#EXTINF:-1 tvg-id="CNCPasto.co" tvg-logo="https://i.imgur.com/sFl4XOp.png" group-title="",CNC Pasto
+https://hvtraficonew.ddns.net/pastocnc9/cnc9/playlist.m3u8
+#EXTINF:-1 tvg-id="CNCSantanderdeQuilichao.co" tvg-logo="https://i.imgur.com/LNl2o9q.jpg" group-title="General",CNC Santander de Quilichao
+https://movil.ejeserver.com/live/cncsantander.m3u8
+#EXTINF:-1 tvg-id="CNCTulua.co" tvg-logo="https://i.imgur.com/NCzpcqm.png" group-title="",CNC Tulua
+https://servers.amelbasoluciones.co:19360/cnctulualive/cnctulualive.m3u8
+#EXTINF:-1 tvg-id="Cosmovision.co" tvg-logo="https://i.imgur.com/QlvYfEJ.png" group-title="",Cosmovision
+https://videohls2.cosmovision.tv/hls/sd.m3u8
+#EXTINF:-1 tvg-id="CreaLaTV.mx" tvg-logo="https://i.imgur.com/Bnjj29f.png" group-title="General",CreaLaTV
+https://ythls.armelin.one/channel/UCL1iKKBxY_iPu7iH-1wNdwQ.m3u8
+#EXTINF:-1 tvg-id="Cristovision.co" tvg-logo="https://i.imgur.com/XIhCUY9.png" group-title="",Cristovision
+https://151972.global.ssl.fastly.net/60a5a559e3414ce54aa8a44d/live_66dad780017a11ee87ff5592d1e02764/index.m3u8
+#EXTINF:-1 tvg-id="CTV.co" tvg-logo="https://i.imgur.com/w35ICn7.png" group-title="",CTV
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
+#EXTINF:-1 tvg-id="Eduvision.co" tvg-logo="https://i.imgur.com/ppBdqel.png" group-title="Education",Eduvision
+https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
+#EXTINF:-1 tvg-id="ElTiempoTV.co" tvg-logo="https://i.imgur.com/qKC1NJI.png" group-title="",El Tiempo TV
+https://ythls.armelin.one/channel/UCe5-b0fCK3eQCpwS6MT0aNw.m3u8
+#EXTINF:-1 tvg-id="Eureka.co" tvg-logo="https://i.imgur.com/WgnZPol.png" group-title="Kids",Eureka
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
+#EXTINF:-1 tvg-id="FamiliChannel.co" tvg-logo="https://i.imgur.com/fPuWct8.png" group-title="Family",Famili Channel
+https://cp.panelchs.com:1936/8012/8012/playlist.m3u8
+#EXTINF:-1 tvg-id="FrecuenciaFTV.co" tvg-logo="https://i.imgur.com/Cw5k96N.png" group-title="Religious",Frecuencia F TV
+https://tv.frecuenciaf.com/live/envivo.m3u8
+#EXTINF:-1 tvg-id="FullMusica.co" tvg-logo="https://i.imgur.com/3WxC59H.jpg" group-title="Music",Full Musica
+https://eu1.servers10.com:8081/8060/index.m3u8
+#EXTINF:-1 tvg-id="GalerasTV.co" tvg-logo="https://i.ibb.co/4WK0k4D/Galeras-TV-tvtolive-com.jpg" group-title="Music",Galeras TV
+https://hvtraficonew.ddns.net/pastocnc8/cnc8/playlist.m3u8
+#EXTINF:-1 tvg-id="HitsChannel.co" tvg-logo="https://i.ibb.co/L9BjpfT/Canal-CNC-HITS-Channel-tvtolive-com.jpg" group-title="Music",Hits Channel
+https://hvtraficonew.ddns.net/pastocnc1/cnc1/playlist.m3u8
+#EXTINF:-1 tvg-id="HuellasTV.co" tvg-logo="https://i.imgur.com/7sazidf.png" group-title="General",Huellas.TV
+https://cp.panelchs.com:1936/8170/8170/playlist.m3u8
+#EXTINF:-1 tvg-id="HuilaTV.co" tvg-logo="https://i.imgur.com/hFlGHNZ.png" group-title="Music",Huila TV
+https://plataformavideo.com:19360/8020/8020.m3u8
+#EXTINF:-1 tvg-id="INPOTV.co" tvg-logo="https://i.imgur.com/m7IRKFH.jpg" group-title="Religious",INPO TV
+https://cp.panelchs.com:1936/8108/8108/playlist.m3u8
+#EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="Entertainment;Sports",ITV Deportes
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 tvg-id="LaDespechadaTV.co" tvg-logo="https://ladespechada.com/wp-content/uploads/2023/01/logo-despechada.png" group-title="Music",La Despechada TV
+https://servidordevideo.com:3077/live/despechadalive.m3u8
+#EXTINF:-1 tvg-id="LaHermandadSalsera.co" tvg-logo="https://i.imgur.com/7Wlt6bc.png" group-title="Music",La Hermandad Salsera
+https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
+#EXTINF:-1 tvg-id="LunaEstereo1064FM.co" tvg-logo="https://i.imgur.com/cESeD6R.png" group-title="Music",Luna Estereo 106.4 FM
+https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8
+#EXTINF:-1 tvg-id="MariquitaStereo.co" tvg-logo="https://i.imgur.com/xw0ySnc.jpg" group-title="Music",Mariquita Stereo
+https://tvlatina.live:1936/8016/8016/playlist.m3u8
+#EXTINF:-1 tvg-id="MasMusicaFM.co" tvg-logo="https://i.imgur.com/tCg7owd.png" group-title="",MasMusica FM
+https://movil.ejeserver.com/live/masmusica.m3u8
+#EXTINF:-1 tvg-id="MelodyChannel.co" tvg-logo="https://i.imgur.com/z2pisQ6.png" group-title="Music",Melody Channel
+https://canal.mediaserver.com.co/live/MelodyChannel.m3u8
+#EXTINF:-1 tvg-id="MemoriasTV.co" tvg-logo="https://i.imgur.com/RWC55w7.png" group-title="Music",Memorias TV
+https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8
+#EXTINF:-1 tvg-id="MemoriasTVClassic.co" tvg-logo="https://i.imgur.com/tLTQLnv.png" group-title="Music",Memorias TV Classic
+https://rpn3.bozztv.com/ssh101/ssh101/memoriasc2/playlist.m3u8
+#EXTINF:-1 tvg-id="MemoriasTVFilm.co" tvg-logo="https://i.imgur.com/vNfjW6Y.png" group-title="Movies",Memorias TV Film
+https://rpn3.bozztv.com/ssh101/ssh101/memoriasfilm/playlist.m3u8
+#EXTINF:-1 tvg-id="MexiquenseTV.mx" tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="",Mexiquense TV
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 tvg-id="MiGenteTV.co" tvg-logo="https://i.imgur.com/CSbmQlu.png" group-title="",Mi Gente TV
+https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8
+#EXTINF:-1 tvg-id="MoniTV.co" tvg-logo="https://i.ibb.co/DD6yFVC/descarga.png" group-title="General",MoniTV
+https://servers.amelbasoluciones.co:19360/monitvlive/monitvlive.m3u8
+#EXTINF:-1 tvg-id="MovieFe.co" tvg-logo="https://i.imgur.com/FqHLJmN.png" group-title="Movies",MovieFe
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+#EXTINF:-1 tvg-id="MulticanalTelevision.co" tvg-logo="https://i.imgur.com/hPxt2OK.png" group-title="",Multicanal Television
+https://ssh101.bozztv.com/ssh101/KIOCApP/playlist.m3u8
+#EXTINF:-1 tvg-id="NoticiasCaracolAhora.co" tvg-logo="https://i.imgur.com/FLt0fwa.png" group-title="News",Noticias Caracol Ahora
+https://ythls.armelin.one/channel/UC2Xq2PK-got3Rtz9ZJ32hLQ.m3u8
+#EXTINF:-1 tvg-id="Noticiero90Minutos.co" tvg-logo="https://i.imgur.com/ThaRRCN.png" group-title="News",Noticiero 90 Minutos
+https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+#EXTINF:-1 tvg-id="NRTMexicoInternacional.mx" tvg-logo="https://i.imgur.com/W2E0fSy.png" group-title="News",NRT Mexico Internacional
+https://59e88b197fb16.streamlock.net:4443/live/canal24/playlist.m3u8
+#EXTINF:-1 tvg-id="NRTMexicoRegionCentro.mx" tvg-logo="https://i.imgur.com/yjNUzYD.jpg" group-title="News",NRT Mexico Region Centro
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
+#EXTINF:-1 tvg-id="NRTMexicoRegionSureste.mx" tvg-logo="https://i.imgur.com/rxVVrZV.jpg" group-title="News",NRT Mexico Region Sureste
+https://59e88b197fb16.streamlock.net:4443/live/canal6/playlist.m3u8
+#EXTINF:-1 tvg-id="NSTV.co" tvg-logo="https://i.imgur.com/ES6xFAv.png" group-title="General",NSTV
+https://cp.panelchs.com:1936/8162/8162/playlist.m3u8
+#EXTINF:-1 tvg-id="NTN24.co" tvg-logo="https://i.imgur.com/UoKmSAP.png" group-title="News",NTN24
+https://ythls.armelin.one/channel/UCEJs1fTF3KszRJGxJY14VrA.m3u8
+#EXTINF:-1 tvg-id="OasisTV.co" tvg-logo="https://i.imgur.com/VKYzFpZ.png" group-title="",Oasis TV
+https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
+#EXTINF:-1 tvg-id="OndambientalTV.co" tvg-logo="https://i.imgur.com/u5804Au.jpg" group-title="Culture;Music",Ondambiental TV
+https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
+#EXTINF:-1 tvg-id="PresumiendoMexico.mx" tvg-logo="https://i.imgur.com/bFG4Rqz.png" group-title="Culture",Presumiendo Mexico
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PSCTelevision.co" tvg-logo="https://i.imgur.com/nasoH2v.png" group-title="",PSC Television
+https://stmv4.voxtvhd.com.br/psctv/psctv/playlist.m3u8
+#EXTINF:-1 tvg-id="PSTelevision.co" tvg-logo="https://i.imgur.com/ANJ0JS8.jpg" group-title="Entertainment",PS Television
+https://xhateaec.com/livestreams/19.crKOSL8FRzpid0MA.m3u8
+#EXTINF:-1 tvg-id="RCMTV.co" tvg-logo="https://i.ibb.co/YB20gYB/893a6047fd1b8fd37308962b51b791cb-2400x836-fit.png" group-title="Religious",RCM TV
+https://ythls.armelin.one/channel/UCnPwQV0-W7S02i_omPEpJBg.m3u8
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment",RCN Mas
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="Entertainment",RCN Novelas
+http://stream.flynetwifi.com:1935/live/mobile-066/playlist.m3u8
+#EXTINF:-1 tvg-id="RCNXtra.co" tvg-logo="https://i.imgur.com/N7VH24E.png" group-title="Entertainment",RCN Xtra
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RDMTelevision.co" tvg-logo="https://i.imgur.com/Lgub1F8.jpg" group-title="General",RDM Television
+https://cp.panelchs.com:1936/8010/8010/playlist.m3u8
+#EXTINF:-1 tvg-id="RedPlus.co" tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="",Red+
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+#EXTINF:-1 tvg-id="Reyali.co" tvg-logo="https://i.imgur.com/YmFjnsF.png" group-title="Music",Reyali
+https://eu1.servers10.com:8081/8090/index.m3u8
+#EXTINF:-1 tvg-id="SalsaGordaTelevision.co" tvg-logo="https://i.imgur.com/3IhYd7G.jpg" group-title="Music",Salsa Gorda Television
+https://tgn.bozztv.com/ssh101/ssh101/qMUAZEy/playlist.m3u8
+#EXTINF:-1 tvg-id="SantelTV.co" tvg-logo="https://i.imgur.com/jmJx0jo.png" group-title="Religious",Santel TV
+https://tvlatina.live:1936/8004/8004/playlist.m3u8
+#EXTINF:-1 tvg-id="SenalColombia.co" tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="General",Senal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SentimientoVallenato.co" tvg-logo="https://i.ibb.co/V2yc9L2/Canal-CNC-Sentimiento-Vallenato-tvtolive-com.jpg" group-title="Music",Sentimiento Vallenato
+https://hvtraficonew.ddns.net/pastocnc4/cnc4/playlist.m3u8
+#EXTINF:-1 tvg-id="SonCorazon.co" tvg-logo="https://i.ibb.co/YT9Lc0P/Soncorazonlogo.png" group-title="Music",Son Corazon
+https://hvtraficonew.ddns.net/pastocnc3/cnc3/playlist.m3u8
+#EXTINF:-1 tvg-id="SonLatino.co" tvg-logo="https://i.ibb.co/zHLpHyq/Canal-CNC-Son-Latino-tvtolive-com.jpg" group-title="Music",Son Latino
+https://hvtraficonew.ddns.net/pastocnc2/cnc2/playlist.m3u8
+#EXTINF:-1 tvg-id="SonPopular.co" tvg-logo="https://i.ibb.co/MBQyccq/Canal-CNC-Son-Popular-tvtolive-com.jpg" group-title="Music",Son Popular
+https://hvtraficonew.ddns.net/pastocnc7/cnc7/playlist.m3u8
+#EXTINF:-1 tvg-id="SuramTV.co" tvg-logo="https://i.imgur.com/2N9LCES.png" group-title="",Suram TV
+https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
+#EXTINF:-1 tvg-id="TamesisTeVe.co" tvg-logo="https://i.imgur.com/HxFRHvu.png" group-title="General",Tamesis TeVe
+https://tvlatina.live:1936/8018/8018/playlist.m3u8
+#EXTINF:-1 tvg-id="TDIColombia.co" tvg-logo="https://i.imgur.com/svNeBNv.png" group-title="General",TDI Colombia
+https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
+#EXTINF:-1 tvg-id="TeleAmiga.co" tvg-logo="https://i.imgur.com/gBZFZNv.png" group-title="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Tele Amiga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://i.imgur.com/qCVZdar.png" group-title="General",Teleantioquia
+https://d1xgz5r2yxvjwj.cloudfront.net/out/v1/49d5fdc5370d4f43aab4930ec7a9cbf8/index.m3u8
+#EXTINF:-1 tvg-id="Teleantioquia2.co" tvg-logo="https://i.imgur.com/weLuMcS.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Teleantioquia 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:live.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="Telecafe.co" tvg-logo="https://i.imgur.com/z18LRqM.png" group-title="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Telecafe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/telecafelive/smil:dvrlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Telecaribe.co" tvg-logo="https://i.imgur.com/yuKjGKo.png" group-title="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Telecaribe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TelecaribePlus.co" tvg-logo="https://i.imgur.com/mxUso93.png" group-title="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Telecaribe Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleCimitarra.co" tvg-logo="https://i.imgur.com/OosxlPx.jpg" group-title="General",TeleCimitarra
+https://cp.panelchs.com:1936/8094/8094/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleislas.co" tvg-logo="https://i.imgur.com/aKHGRyk.png" group-title="General",Teleislas
+https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemedellin.co" tvg-logo="https://i.imgur.com/GnxzRTC.png" group-title="General",Telemedellin
+https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8
+#EXTINF:-1 tvg-id="TelemusicaTV.co" tvg-logo="https://i.imgur.com/Nz67Uq6.png" group-title="Music",Telemusica TV
+https://canal.mediaserver.com.co/live/telemusica.m3u8
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-logo="https://i.imgur.com/39hy97J.png" group-title="",Telepacifico
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Telepasto.co" tvg-logo="https://i.imgur.com/NJ7J4gJ.jpg" group-title="General",Telepasto
+https://hvtraficonew.ddns.net/telepasto/telepasto.stream/index.m3u8
+#EXTINF:-1 tvg-id="Telesangil.co" tvg-logo="https://i.ibb.co/27Pzdvw/cropped-TELESANGIL-LOGO-1.png" group-title="General",Telesangil
+https://hvtraficonew.ddns.net/tvsangil/tvsangil/index.m3u8
+#EXTINF:-1 tvg-id="TeleSanJacinto.co" tvg-logo="https://i.imgur.com/t8aT4eT.png" group-title="",Tele San Jacinto
+https://movil.ejeserver.com/live/telesanjacinto.m3u8
+#EXTINF:-1 tvg-id="TeleVid.co" tvg-logo="https://i.imgur.com/kVHJU5V.png" group-title="Religious" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Tele Vid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/televidtvlive/smil:dvrlive.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="Televilla.co" tvg-logo="https://i.imgur.com/viBfaCl.jpg" group-title="General",Televilla
+https://cp.panelchs.com:1936/8060/8060/playlist.m3u8
+#EXTINF:-1 tvg-id="TelevisaMexicali.mx" tvg-logo="https://i.imgur.com/NIEWc2s.jpg" group-title="",Televisa Mexicali
+https://ythls.armelin.one/channel/UCcmuFsMIIIHO3LBqeBVfm8Q.m3u8
+#EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Series",Tlnovelas Mexico
+https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Trece.co" tvg-logo="https://i.imgur.com/nEBsIlf.png" group-title="",Trece
+https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TrecePlus.co" tvg-logo="https://i.imgur.com/jySvMsw.png" group-title="",Trece+
+https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TropicalTV.co" tvg-logo="https://i.imgur.com/mIh3y7K.png" group-title="Music",Tropical TV
+https://rpn3.bozztv.com/ssh101/ssh101/estvco/playlist.m3u8
+#EXTINF:-1 tvg-id="TuKanal.co" tvg-logo="https://i.imgur.com/GJthQOa.png" group-title="",Tu Kanal
+http://45.33.63.98/hls/abdi.m3u8
+#EXTINF:-1 tvg-id="TuUniversoTV.co" tvg-logo="https://i.imgur.com/e6esjLZ.jpg" group-title="Religious",Tu Universo TV
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGracia.co" tvg-logo="https://i.imgur.com/tMl4ISO.png" group-title="Religious",TVGracia
+https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIpiales.co" tvg-logo="https://i.imgur.com/ONkLzdn.jpg" group-title="Religious",TV Ipiales
+https://movil.ejeserver.com/live/tvipiales.m3u8
+#EXTINF:-1 tvg-id="TVNGlobal.co" tvg-logo="https://i.imgur.com/1TcZUzH.png" group-title="",TVN Global
+https://tvlatina.live:1936/8006/8006/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPenol.co" tvg-logo="https://i.imgur.com/Zm4934Z.png" group-title="General",TV Penol
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSanJorge.co" tvg-logo="https://i.imgur.com/vLU4Tcu.png" group-title="General",TV San Jorge
+https://asucap.com/livestream/asucap_envivo.m3u8
+#EXTINF:-1 tvg-id="UAOPlay.co" tvg-logo="https://i.imgur.com/54IMDZb.png" group-title="",UAO Play
+https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/028/playlist.m3u8
+#EXTINF:-1 tvg-id="VeoTelevision.co" tvg-logo="https://i.imgur.com/9tZae88.png" group-title="",Veo Television
+https://movil.ejeserver.com/live/veotv.m3u8
+#EXTINF:-1 tvg-id="VidaNuevaTV.co" tvg-logo="https://i.imgur.com/HEGEt6m.jpg" group-title="Religious",Vida Nueva TV
+https://eu1.servers10.com:8081/vidanuevatv/index.m3u8
+#EXTINF:-1 tvg-id="ViveTV.co" tvg-logo="https://i.imgur.com/25CFHpB.png" group-title="",Vive TV
+http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
+#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Education",XEIPN-TDT
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1 tvg-id="XHSPRTDT1.mx" tvg-logo="https://i.imgur.com/AWLWu91.png" group-title="Culture;Education",XHSPR-TDT1
+https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
+#EXTINF:-1 tvg-id="Zoom.co" tvg-logo="https://i.imgur.com/euy5zp6.png" group-title="",Zoom
+#EXTVLCOPT:http-referrer=https://canalzoom.org/senal-en-vivo
+https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
+
+
+*****ANIMADOS
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",CARTOON NETWORK
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/9
+#EXTINF:-1 group-title="Bics",AZTECA 7
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/4
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",CARTOONITO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/5
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",DISCOVERY KIDS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/18
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",DISNEY JR
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/23
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",NICK JR
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/41
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",TOONCAST
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/48
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",BABY TV
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/134
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",NICK
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/163
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",DISNEY
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/458
+#EXTINF:-1 group-title="Bics Extra US",US STARZ EAST
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/518
+#EXTINF:-1 group-title="Bics Extra US",US STARZ ENCORE FAMILY
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/519
+#EXTINF:-1 group-title="Bics Extra Internacional",BBC UK
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/616
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",Bit ME
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/618
+
+
+*****---- CANALES DEPORTES
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/27
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/99
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/25
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/97
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 2-1
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/101
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 3
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/26
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 3-1
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/102
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 4
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/28
+#EXTINF:-1 group-title="Bics DEPORTES",FOX SPORTS 1
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/31
+#EXTINF:-1 group-title="Bics DEPORTES",FOX SPORTS 2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/32
+#EXTINF:-1 group-title="Bics DEPORTES",FOX SPORTS  3
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/33
+#EXTINF:-1 group-title="Bics DEPORTES",TUDN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/49
+#EXTINF:-1 group-title="Bics DEPORTES",TVC DEPORTES
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/50
+#EXTINF:-1 group-title="Bics DEPORTES",UK BT SPORTS 2 HD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/64
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",PPV 002
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/95
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",PPV 011
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/104
+#EXTINF:-1 group-title="Bics DEPORTES",US MLB Network
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/126
+#EXTINF:-1 group-title="Bics DEPORTES",US FOX DEPORTES
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/128
+#EXTINF:-1 group-title="Bics DEPORTES",MX EUROSPORTS 1
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/139
+#EXTINF:-1 group-title="Bics DEPORTES",EUROSPORTS 2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/140
+#EXTINF:-1 group-title="Bics DEPORTES",ES LA LIGA
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/157
+#EXTINF:-1 group-title="Bics DEPORTES",AR TYC SPORTS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/175
+#EXTINF:-1 group-title="Bics Extra US",US Sportsnet World
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/180
+#EXTINF:-1 group-title="Bics Extra US",TSN SPORTS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/181
+#EXTINF:-1 group-title="Bics Extra US",TSN SPORTS 2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/182
+#EXTINF:-1 group-title="Bics Extra US",TSN SPORTS 3
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/183
+#EXTINF:-1 group-title="Bics Extra US",TSN SPORTS 5
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/184
+#EXTINF:-1 group-title="Bics Extra US",US|FU|FS2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/310
+#EXTINF:-1 group-title="Bics DEPORTES",CLARO SPORTS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/462
+#EXTINF:-1 group-title="Bics DEPORTES",COL WIN SPORTS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/463
+#EXTINF:-1 group-title="Bics Extra US",US WWE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/466
+#EXTINF:-1 group-title="Bics DEPORTES",COL DIRECTV SPORTS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/467
+#EXTINF:-1 group-title="Bics DEPORTES",DIRECTV SPORTS PLUS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/469
+#EXTINF:-1 group-title="Bics Extra US",US RED BULL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/473
+#EXTINF:-1 group-title="Bics DEPORTES",US FOX DEPORTES
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/501
+#EXTINF:-1 group-title="Bics DEPORTES",FOX SPORTS 3
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/502
+#EXTINF:-1 group-title="Bics DEPORTES",ES MOVISTAR GOLF
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/596
+#EXTINF:-1 group-title="Bics DEPORTES",FOX SPORTS PREMIUM MX
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/600
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_Liga MX 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/636
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/639
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/644
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/640
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_Liga MX 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/638
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_EUROPALEAGUE 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/651
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_EUROPALEAGUE 04
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/653
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_EUROPALEAGUE 06
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/655
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_WWE 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/660
+
+
+*****----noticias
+#EXTINF:-1 group-title="Bics", MX: CNN
+#EXTVLCOPT--http-reconnect=true
+https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",CNN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/12
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",cnn internacional
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/631
+
+
+****----comedia mexicana
+#EXTINF:-1 group-title="Bics", MX: DISTRITO COMEDIA
+#EXTVLCOPT--http-reconnect=true
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
+
+
+****----viejas
+#EXTINF:-1 group-title="Bics", MX: DPELICULA
+#EXTVLCOPT--http-reconnect=true
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: DPELICULA PLUS
+#EXTVLCOPT--http-reconnect=true
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
