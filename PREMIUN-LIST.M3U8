@@ -120,8 +120,8 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/617
 http://167.114.156.136:25461/INFINITV/ZX89NM22/191
 #EXTINF:-1 group-title="PELICULAS",Discovery Turbo
 http://167.114.156.136:25461/INFINITV/ZX89NM22/230
-#EXTINF:-1 group-title="PELICULAS",TVLATINA
-https:\\tvlatina.live:1936\8018\8018\playlist.m3u8
+#EXTINF:-1 tvg-id="TamesisTeVe.co" group-title="PELICULAS",Támesis TeVe (614p) [Not 24/7]
+https://tvlatina.live:1936/8018/8018/playlist.m3u8
 
 
 # ***** Novelas
