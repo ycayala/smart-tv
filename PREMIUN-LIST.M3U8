@@ -68,6 +68,8 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/61
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/67
 #EXTINF:-1 group-title="PELICULAS",AXN
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/69
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" group-title="PELICULAS",AXN
+http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS",US DISCOVERY EN ESPANOL
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/136
 #EXTINF:-1 group-title="PELICULAS",US DISCOVERY FAMILIA
@@ -118,6 +120,8 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/617
 http://167.114.156.136:25461/INFINITV/ZX89NM22/191
 #EXTINF:-1 group-title="PELICULAS",Discovery Turbo
 http://167.114.156.136:25461/INFINITV/ZX89NM22/230
+#EXTINF:-1 group-title="PELICULAS",TVLATINA
+https:\\tvlatina.live:1936\8018\8018\playlist.m3u8
 
 
 # ***** Novelas
@@ -171,6 +175,10 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/169
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/457
 #EXTINF:-1 group-title="MUSICA",MTV Live
 http://167.114.156.136:25461/INFINITV/ZX89NM22/108
+#EXTINF:-1 tvg-id="MemoriasTVClassic.co" group-title="MUSICA",Memorias TV Classic (480p)
+https://rpn3.bozztv.com/ssh101/ssh101/memoriasc2/playlist.m3u8
+#EXTINF:-1 tvg-id="MemoriasTVFilm.co" group-title="MUSICA",Memorias TV Film (480p)
+https://rpn3.bozztv.com/ssh101/ssh101/memoriasfilm/playlist.m3u8
 
 
 # ***** ANIMADOS
