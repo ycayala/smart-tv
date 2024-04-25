@@ -1,0 +1,551 @@
+#EXTM3U
+
+
+# ***** CANALES PREMIUN MOVIES
+#EXTINF:-1 group-title="PELICULAS", MX: GOLDEN
+#EXTVLCOPT--http-reconnect=true
+https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="PELICULAS", MX: GOLDEN
+#EXTVLCOPT--http-reconnect=true
+https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="PELICULAS", MX: GOLDEN
+#EXTVLCOPT--http-reconnect=true
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="PELICULAS", MX: GOLDEN PLUS
+#EXTVLCOPT--http-reconnect=true
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+# ***** https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
+# ***** https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="PELICULAS", MX: EDGE
+#EXTVLCOPT--http-reconnect=true
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="PELICULAS",ANIMAL PLANET
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/2
+#EXTINF:-1 group-title="PELICULAS",CINECANAL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/10
+#EXTINF:-1 group-title="PELICULAS",CINEMAX
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/11
+#EXTINF:-1 group-title="PELICULAS",COMEDY CENTRAL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/13
+#EXTINF:-1 group-title="PELICULAS",DE PELICULA
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/14
+#EXTINF:-1 group-title="PELICULAS",DISCOVERY CHANNEL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/15
+#EXTINF:-1 group-title="PELICULAS",DISCOVERY HOME AND HEALTH
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/16
+#EXTINF:-1 group-title="PELICULAS",DISCOVERY ID
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/17
+#EXTINF:-1 group-title="PELICULAS",DISCOVERY SCIENCE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/19
+#EXTINF:-1 group-title="PELICULAS",DISCOVERY THEATER
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/20
+#EXTINF:-1 group-title="PELICULAS",DISCOVERY TURBO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/21
+#EXTINF:-1 group-title="PELICULAS",DISCOVERY WORLD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/22
+#EXTINF:-1 group-title="PELICULAS",LIFETIME
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/159
+# ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/30
+#EXTINF:-1 group-title="PELICULAS",Lifetime Movie Network
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/624
+#EXTINF:-1 group-title="PELICULAS",GOURMET
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/35
+#EXTINF:-1 group-title="PELICULAS",HISTORY CHANNEL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/36
+#EXTINF:-1 group-title="PELICULAS",NATGEO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/40
+#EXTINF:-1 group-title="PELICULAS",SONY
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/42
+#EXTINF:-1 group-title="PELICULAS",SPACE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/43
+#EXTINF:-1 group-title="PELICULAS",STUDIO UNIVERSAL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/44
+#EXTINF:-1 group-title="PELICULAS",WARNER
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/52
+#EXTINF:-1 group-title="PELICULAS",A&E
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/61
+#EXTINF:-1 group-title="PELICULAS",AMC
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/67
+#EXTINF:-1 group-title="PELICULAS",AXN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/69
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" group-title="PELICULAS",AXN
+http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
+#EXTINF:-1 group-title="PELICULAS",US DISCOVERY EN ESPANOL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/136
+#EXTINF:-1 group-title="PELICULAS",US DISCOVERY FAMILIA
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/137
+#EXTINF:-1 group-title="PELICULAS",STAR - FOX
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/147
+#EXTINF:-1 group-title="PELICULAS",FX
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/148
+#EXTINF:-1 group-title="PELICULAS",HBO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/152
+#EXTINF:-1 group-title="PELICULAS",HBO 2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/153
+#EXTINF:-1 group-title="PELICULAS",TNT
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/171
+#EXTINF:-1 group-title="PELICULAS",TNT SERIES
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/172
+#EXTINF:-1 group-title="PELICULAS",ADULT SWIM
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/174
+#EXTINF:-1 group-title="PELICULAS",UNIVERSAL TV
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/176
+#EXTINF:-1 group-title="PELICULAS",HISTORY EN ESPAÑOL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/461
+#EXTINF:-1 group-title="PELICULAS",US HBO LATINO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/510
+#EXTINF:-1 group-title="PELICULAS",US STARZ ENCORE WEST
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/512
+#EXTINF:-1 group-title="PELICULAS",US STARZ ENCORE WESTERNS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/513
+#EXTINF:-1 group-title="PELICULAS",US STARZ ENCORE ACTION
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/516
+#EXTINF:-1 group-title="PELICULAS",US STARZ ENCORE BLACK
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/517
+#EXTINF:-1 group-title="PELICULAS",US STARZ WEST
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/521
+#EXTINF:-1 group-title="PELICULAS",US STARZ ENCORE ESPANOL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/522
+#EXTINF:-1 group-title="PELICULAS",US STARZ ENCORE EAST
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/523
+#EXTINF:-1 group-title="PELICULAS",GOLDEN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/571
+#EXTINF:-1 group-title="PELICULAS",USA STARMAX
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/580
+#EXTINF:-1 group-title="PELICULAS",PR WIPR
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/598
+#EXTINF:-1 group-title="PELICULAS",GOLDEN EDGE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/617
+#EXTINF:-1 group-title="PELICULAS",USA Network (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/191
+#EXTINF:-1 group-title="PELICULAS",Discovery Turbo
+http://167.114.156.136:25461/INFINITV/ZX89NM22/230
+#EXTINF:-1 tvg-id="TamesisTeVe.co" group-title="PELICULAS",Támesis TeVe (614p) [Not 24/7]
+https://tvlatina.live:1936/8018/8018/playlist.m3u8
+
+
+# ***** Novelas
+#EXTINF:-1 group-title="NOVELAS",PASIONES
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/164
+#EXTINF:-1 group-title="NOVELAS",COL RCN NOVELAS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/166
+#EXTINF:-1 group-title="NOVELAS",US TELEMUNDO LOS ANGELES
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/480
+# ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/485
+# ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/486
+# ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/487
+# ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/483
+# ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/488
+#EXTINF:-1 group-title="NOVELAS",US TELEMUNDO LOS ANGELES
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/481
+#EXTINF:-1 group-title="NOVELAS",US TELEMUNDO DENVER
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/484
+#EXTINF:-1 group-title="NOVELAS",US TELEMUNDO SAN FRANCISCO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/482
+#EXTINF:-1 group-title="NOVELAS",US UNIVISION ATLANTA
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/494
+# ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/495
+# ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/498
+# ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/499
+#EXTINF:-1 group-title="NOVELAS",US UNIVISION PHONIX
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/500
+#EXTINF:-1 group-title="NOVELAS,ES TVE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/526
+#EXTINF:-1 group-title="NOVELAS",TELEMUNDO LAS VEGAS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/621
+# ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/623
+#EXTINF:-1 group-title="NOVELAS",TELEMUNDO BOSTON
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/622
+#EXTINF:-1 group-title="NOVELAS",Milenio TV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/88
+#EXTINF:-1 group-title="NOVELAS",Azteca Uno
+http://167.114.156.136:25461/INFINITV/ZX89NM22/82
+#EXTINF:-1 group-title="NOVELAS",AZTECA 7
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/4
+
+
+# ***** Musica
+#EXTINF:-1 group-title="MUSICA",MTV
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/162
+#EXTINF:-1 group-title="MUSICA",TELEHIT MUSICA PLUS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/168
+#EXTINF:-1 group-title="MUSICA",TELERITMO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/169
+#EXTINF:-1 group-title="MUSICA",COL TELECAFE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/457
+#EXTINF:-1 group-title="MUSICA",MTV Live
+http://167.114.156.136:25461/INFINITV/ZX89NM22/108
+#EXTINF:-1 tvg-id="MemoriasTVClassic.co" group-title="MUSICA",Memorias TV Classic (480p)
+https://rpn3.bozztv.com/ssh101/ssh101/memoriasc2/playlist.m3u8
+#EXTINF:-1 tvg-id="MemoriasTVFilm.co" group-title="MUSICA",Memorias TV Film (480p)
+https://rpn3.bozztv.com/ssh101/ssh101/memoriasfilm/playlist.m3u8
+
+
+# ***** ANIMADOS
+#EXTINF:-1 group-title="ANIMADOS",CARTOON NETWORK
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/9
+#EXTINF:-1 group-title="ANIMADOS",CARTOONITO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/5
+#EXTINF:-1 group-title="ANIMADOS",DISCOVERY KIDS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/18
+#EXTINF:-1 group-title="ANIMADOS",DISNEY JR
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/23
+#EXTINF:-1 group-title="ANIMADOS",NICK JR
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/41
+#EXTINF:-1 group-title="ANIMADOS",TOONCAST
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/48
+#EXTINF:-1 group-title="ANIMADOS",BABY TV
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/134
+#EXTINF:-1 group-title="ANIMADOS",NICK
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/163
+#EXTINF:-1 group-title="ANIMADOS",DISNEY
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/458
+#EXTINF:-1 group-title="ANIMADOS",US STARZ EAST
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/518
+#EXTINF:-1 group-title="ANIMADOS",US STARZ ENCORE FAMILY
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/519
+#EXTINF:-1 group-title="ANIMADOS",BBC UK
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/616
+#EXTINF:-1 group-title="ANIMADOS",Bit ME
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/618
+
+
+# ***** NOTICIAS
+#EXTINF:-1 group-title="NOTICIAS", MX: CNN
+#EXTVLCOPT--http-reconnect=true
+https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS",CNN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/12
+#EXTINF:-1 group-title="NOTICIAS",cnn internacional
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/631
+
+
+# ***** COMEDIA
+#EXTINF:-1 group-title="COMEDIA", MX: DISTRITO COMEDIA
+#EXTVLCOPT--http-reconnect=true
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
+
+
+# ***** RETRO
+#EXTINF:-1 group-title="RETRO", MX: DPELICULA
+#EXTVLCOPT--http-reconnect=true
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="RETRO", MX: DPELICULA PLUS
+#EXTVLCOPT--http-reconnect=true
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+
+
+# ***** Canales Colombia
+#EXTINF:-1 group-title="CANALES COLOMBIA",COL RCN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/165
+#EXTINF:-1 group-title="CANALES COLOMBIA",COL CARACOL INTERNACIONAL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/456
+#EXTINF:-1 tvg-id="ATV.co" group-title="CANALES COLOMBIA",ATV
+https://movil.ejeserver.com/live/verteve.m3u8
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" group-title="CANALES COLOMBIA",Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="AzufralCanalRegional.co" group-title="CANALES COLOMBIA",Azufral Canal Regional
+https://tvlatina.live:1936/8020/8020/playlist.m3u8
+#EXTINF:-1 tvg-id="BluRadio.co" group-title="CANALES COLOMBIA",Blu Radio
+https://ythls.armelin.one/channel/UCUYokk2dJxFZf7NgxTL-ROg.m3u8
+#EXTINF:-1 tvg-id="Cablenoticias.co" group-title="CANALES COLOMBIA",Cablenoticias
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+#EXTINF:-1 tvg-id="CableSurTV.co" group-title="CANALES COLOMBIA",Cable Sur TV
+https://tvlatina.live:1936/8012/8012/playlist.m3u8
+#EXTINF:-1 tvg-id="CaliTV.co" group-title="CANALES COLOMBIA",CaliTV
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal1.co" group-title="CANALES COLOMBIA",Canal 1
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+#EXTINF:-1 tvg-id="Canal14Codazzi.co" group-title="CANALES COLOMBIA",Canal 14 Codazzi
+https://eu1.servers10.com:8081/8056/index.m3u8
+#EXTINF:-1 tvg-id="Canal2.co" group-title="CANALES COLOMBIA",Canal 2
+https://video13.virtualtronics.com/streamer/canal2.m3u8
+#EXTINF:-1 tvg-id="Canal2AlpavisionNeiva.co" group-title="CANALES COLOMBIA",Canal 2 Alpavision Neiva
+https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal55TelemoriscoTV.co" group-title="CANALES COLOMBIA",Canal 55 Telemorisco TV
+http://canal.mediaserver.com.co/live/telemorisco.m3u8
+#EXTINF:-1 tvg-id="Canal8TVPlus.co" group-title="CANALES COLOMBIA",Canal 8 TV+
+https://movil.ejeserver.com/live/canal8tv.m3u8
+#EXTINF:-1 tvg-id="Canal9.co" group-title="CANALES COLOMBIA",Canal 9
+https://video2.lhdserver.es/canal9cosespu/live.m3u8
+#EXTINF:-1 tvg-id="CanalCapital.co" group-title="CANALES COLOMBIA",Canal Capital
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
+#EXTINF:-1 tvg-id="CanaldelCongreso452.mx" group-title="CANALES COLOMBIA",Canal del Congreso 45.2
+https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanaldelCongreso453.mx" group-title="CANALES COLOMBIA",Canal del Congreso 45.3
+https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalDos.co" group-title="CANALES COLOMBIA",Canal Dos
+https://canaldos.internetinalambrico.com.co:1936/live/canal2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalInstitucional.co" group-title="CANALES COLOMBIA",Canal Institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalMasTelevision.co" group-title="CANALES COLOMBIA",Canal Mas Television
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 tvg-id="CanalMundoVision.co" group-title="CANALES COLOMBIA",Canal Mundo Vision
+https://movil.ejeserver.com/live/mundovisiontv.m3u8
+#EXTINF:-1 tvg-id="CanalNets.co" group-title="CANALES COLOMBIA",Canal Nets
+https://movil.ejeserver.com/live/nets.m3u8
+#EXTINF:-1 tvg-id="CanalSantaMartaTV.co" group-title="CANALES COLOMBIA",Canal Santa Marta TV
+https://videosenlared.fullstreaming.ar:3046/live/yevothnflive.m3u8
+#EXTINF:-1 tvg-id="CanalTelefamilia.co" group-title="CANALES COLOMBIA",Canal Telefamilia
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalTelePalmar.co" group-title="CANALES COLOMBIA",Canal TelePalmar
+https://play.amelbasoluciones.co:3976/live/telepalmartvlive.m3u8
+#EXTINF:-1 tvg-id="CanalTRO.co" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Canal TRO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalTROPlus.co" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Canal TRO +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalVIP.co" group-title="CANALES COLOMBIA",Canal VIP
+https://play.cdn.enetres.net/B9E570CFE54949C7ABB985D4F8F77F7F021/02267/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalVisionDorada.co" group-title="CANALES COLOMBIA",Canal Vision Dorada
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-id="CarareTV.co" group-title="CANALES COLOMBIA",Carare TV
+https://cp.panelchs.com:1936/8160/8160/playlist.m3u8
+#EXTINF:-1 tvg-id="CitytvBogota.co" group-title="CANALES COLOMBIA",Citytv Bogota
+https://ythls.armelin.one/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
+#EXTINF:-1 tvg-id="CiudadelaTV.co" group-title="CANALES COLOMBIA",CiudadelaTV
+https://cp.panelchs.com:1936/8096/8096/playlist.m3u8
+#EXTINF:-1 tvg-id="CNCHDOnline.co" group-title="CANALES COLOMBIA",CNC HD Online
+https://hvtraficonew.ddns.net/pastocnc6/cnc6/playlist.m3u8
+#EXTINF:-1 tvg-id="CNCMedellin.co" group-title="CANALES COLOMBIA",CNC Medellin
+http://cncmedellin.ddns.net:1935/canalcnc/canalcnc_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="CNCPasto.co" group-title="CANALES COLOMBIA",CNC Pasto
+https://hvtraficonew.ddns.net/pastocnc9/cnc9/playlist.m3u8
+#EXTINF:-1 tvg-id="CNCSantanderdeQuilichao.co" group-title="CANALES COLOMBIA",CNC Santander de Quilichao
+https://movil.ejeserver.com/live/cncsantander.m3u8
+#EXTINF:-1 tvg-id="Cosmovision.co" group-title="CANALES COLOMBIA",Cosmovision
+https://videohls2.cosmovision.tv/hls/sd.m3u8
+#EXTINF:-1 tvg-id="CreaLaTV.mx" group-title="CANALES COLOMBIA",CreaLaTV
+https://ythls.armelin.one/channel/UCL1iKKBxY_iPu7iH-1wNdwQ.m3u8
+#EXTINF:-1 tvg-id="CTV.co" group-title="CANALES COLOMBIA",CTV
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
+#EXTINF:-1 tvg-id="Eduvision.co" group-title="CANALES COLOMBIA",Eduvision
+https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
+#EXTINF:-1 tvg-id="Eureka.co" group-title="CANALES COLOMBIA",Eureka
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
+#EXTINF:-1 tvg-id="FamiliChannel.co" group-title="CANALES COLOMBIA",Famili Channel
+https://cp.panelchs.com:1936/8012/8012/playlist.m3u8
+#EXTINF:-1 tvg-id="FrecuenciaFTV.co" group-title="CANALES COLOMBIA",Frecuencia F TV
+https://tv.frecuenciaf.com/live/envivo.m3u8
+#EXTINF:-1 tvg-id="FullMusica.co" group-title="CANALES COLOMBIA",Full Musica
+https://eu1.servers10.com:8081/8060/index.m3u8
+#EXTINF:-1 tvg-id="GalerasTV.co" group-title="CANALES COLOMBIA",Galeras TV
+https://hvtraficonew.ddns.net/pastocnc8/cnc8/playlist.m3u8
+#EXTINF:-1 tvg-id="HitsChannel.co" group-title="CANALES COLOMBIA",Hits Channel
+https://hvtraficonew.ddns.net/pastocnc1/cnc1/playlist.m3u8
+#EXTINF:-1 tvg-id="HuellasTV.co" group-title="CANALES COLOMBIA",Huellas.TV
+https://cp.panelchs.com:1936/8170/8170/playlist.m3u8
+#EXTINF:-1 tvg-id="HuilaTV.co" group-title="CANALES COLOMBIA",Huila TV
+https://plataformavideo.com:19360/8020/8020.m3u8
+#EXTINF:-1 tvg-id="INPOTV.co" group-title="CANALES COLOMBIA",INPO TV
+https://cp.panelchs.com:1936/8108/8108/playlist.m3u8
+#EXTINF:-1 tvg-id="ITVDeportes.mx" group-title="CANALES COLOMBIA",ITV Deportes
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 tvg-id="LaDespechadaTV.co" group-title="CANALES COLOMBIA",La Despechada TV
+https://servidordevideo.com:3077/live/despechadalive.m3u8
+#EXTINF:-1 tvg-id="LaHermandadSalsera.co" group-title="CANALES COLOMBIA",La Hermandad Salsera
+https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MasMusicaFM.co" group-title="CANALES COLOMBIA",MasMusica FM
+https://movil.ejeserver.com/live/masmusica.m3u8
+#EXTINF:-1 tvg-id="MemoriasTV.co" group-title="CANALES COLOMBIA",Memorias TV
+https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8
+#EXTINF:-1 tvg-id="MemoriasTVClassic.co" group-title="CANALES COLOMBIA",Memorias TV Classic
+https://rpn3.bozztv.com/ssh101/ssh101/memoriasc2/playlist.m3u8
+#EXTINF:-1 tvg-id="MemoriasTVFilm.co" group-title="CANALES COLOMBIA",Memorias TV Film
+https://rpn3.bozztv.com/ssh101/ssh101/memoriasfilm/playlist.m3u8
+#EXTINF:-1 tvg-id="MexiquenseTV.mx" group-title="CANALES COLOMBIA",Mexiquense TV
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 tvg-id="MiGenteTV.co" group-title="CANALES COLOMBIA",Mi Gente TV
+https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8
+#EXTINF:-1 tvg-id="MovieFe.co" group-title="CANALES COLOMBIA",MovieFe
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+#EXTINF:-1 tvg-id="MulticanalTelevision.co" group-title="CANALES COLOMBIA",Multicanal Television
+https://ssh101.bozztv.com/ssh101/KIOCApP/playlist.m3u8
+#EXTINF:-1 tvg-id="Noticiero90Minutos.co" group-title="CANALES COLOMBIA",Noticiero 90 Minutos
+https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+#EXTINF:-1 tvg-id="NRTMexicoInternacional.mx" group-title="CANALES COLOMBIA",NRT Mexico Internacional
+https://59e88b197fb16.streamlock.net:4443/live/canal24/playlist.m3u8
+#EXTINF:-1 tvg-id="NRTMexicoRegionCentro.mx" group-title="CANALES COLOMBIA",NRT Mexico Region Centro
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
+#EXTINF:-1 tvg-id="NRTMexicoRegionSureste.mx" group-title="CANALES COLOMBIA",NRT Mexico Region Sureste
+https://59e88b197fb16.streamlock.net:4443/live/canal6/playlist.m3u8
+#EXTINF:-1 tvg-id="NSTV.co" group-title="CANALES COLOMBIA",NSTV
+https://cp.panelchs.com:1936/8162/8162/playlist.m3u8
+#EXTINF:-1 tvg-id="OasisTV.co" group-title="CANALES COLOMBIA",Oasis TV
+https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
+#EXTINF:-1 tvg-id="OndambientalTV.co" group-title="CANALES COLOMBIA",Ondambiental TV
+https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
+#EXTINF:-1 tvg-id="PresumiendoMexico.mx" group-title="CANALES COLOMBIA",Presumiendo Mexico
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RCNMas.co" group-title="CANALES COLOMBIA",RCN Mas
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RCNXtra.co" group-title="CANALES COLOMBIA",RCN Xtra
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RDMTelevision.co" group-title="CANALES COLOMBIA",RDM Television
+https://cp.panelchs.com:1936/8010/8010/playlist.m3u8
+#EXTINF:-1 tvg-id="RedPlus.co" group-title="CANALES COLOMBIA",Red+
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+#EXTINF:-1 tvg-id="Reyali.co" group-title="CANALES COLOMBIA",Reyali
+https://eu1.servers10.com:8081/8090/index.m3u8
+#EXTINF:-1 tvg-id="SalsaGordaTelevision.co" group-title="CANALES COLOMBIA",Salsa Gorda Television
+https://tgn.bozztv.com/ssh101/ssh101/qMUAZEy/playlist.m3u8
+#EXTINF:-1 tvg-id="SantelTV.co" group-title="CANALES COLOMBIA",Santel TV
+https://tvlatina.live:1936/8004/8004/playlist.m3u8
+#EXTINF:-1 tvg-id="SenalColombia.co" group-title="CANALES COLOMBIA",Senal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SentimientoVallenato.co" group-title="CANALES COLOMBIA",Sentimiento Vallenato
+https://hvtraficonew.ddns.net/pastocnc4/cnc4/playlist.m3u8
+#EXTINF:-1 tvg-id="SonCorazon.co" group-title="CANALES COLOMBIA",Son Corazon
+https://hvtraficonew.ddns.net/pastocnc3/cnc3/playlist.m3u8
+#EXTINF:-1 tvg-id="SonLatino.co" group-title="CANALES COLOMBIA",Son Latino
+https://hvtraficonew.ddns.net/pastocnc2/cnc2/playlist.m3u8
+#EXTINF:-1 tvg-id="SonPopular.co" group-title="CANALES COLOMBIA",Son Popular
+https://hvtraficonew.ddns.net/pastocnc7/cnc7/playlist.m3u8
+#EXTINF:-1 tvg-id="SuramTV.co" group-title="CANALES COLOMBIA",Suram TV
+https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
+#EXTINF:-1 tvg-id="TamesisTeVe.co" group-title="CANALES COLOMBIA",Tamesis TeVe
+https://tvlatina.live:1936/8018/8018/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleCimitarra.co" group-title="CANALES COLOMBIA",TeleCimitarra
+https://cp.panelchs.com:1936/8094/8094/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleislas.co" group-title="CANALES COLOMBIA",Teleislas
+https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemedellin.co" group-title="CANALES COLOMBIA",Telemedellin
+https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8
+#EXTINF:-1 tvg-id="Telepacifico.co" group-title="CANALES COLOMBIA",Telepacifico
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Telepasto.co" group-title="CANALES COLOMBIA",Telepasto
+https://hvtraficonew.ddns.net/telepasto/telepasto.stream/index.m3u8
+#EXTINF:-1 tvg-id="TeleSanJacinto.co" group-title="CANALES COLOMBIA",Tele San Jacinto
+https://movil.ejeserver.com/live/telesanjacinto.m3u8
+#EXTINF:-1 tvg-id="Televilla.co" group-title="CANALES COLOMBIA",Televilla
+https://cp.panelchs.com:1936/8060/8060/playlist.m3u8
+#EXTINF:-1 tvg-id="TelevisaMexicali.mx" group-title="CANALES COLOMBIA",Televisa Mexicali
+https://ythls.armelin.one/channel/UCcmuFsMIIIHO3LBqeBVfm8Q.m3u8
+#EXTINF:-1 tvg-id="TlnovelasMexico.mx" group-title="CANALES COLOMBIA",Tlnovelas Mexico
+https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Trece.co" group-title="CANALES COLOMBIA",Trece
+https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TrecePlus.co" group-title="CANALES COLOMBIA",Trece+
+https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TropicalTV.co" group-title="CANALES COLOMBIA",Tropical TV
+https://rpn3.bozztv.com/ssh101/ssh101/estvco/playlist.m3u8
+#EXTINF:-1 tvg-id="TuKanal.co" group-title="CANALES COLOMBIA",Tu Kanal
+http://45.33.63.98/hls/abdi.m3u8
+#EXTINF:-1 tvg-id="TuUniversoTV.co" group-title="CANALES COLOMBIA",Tu Universo TV
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGracia.co" group-title="CANALES COLOMBIA",TVGracia
+https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIpiales.co" group-title="CANALES COLOMBIA",TV Ipiales
+https://movil.ejeserver.com/live/tvipiales.m3u8
+#EXTINF:-1 tvg-id="TVNGlobal.co" group-title="CANALES COLOMBIA",TVN Global
+https://tvlatina.live:1936/8006/8006/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPenol.co" group-title="CANALES COLOMBIA",TV Penol
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSanJorge.co" group-title="CANALES COLOMBIA",TV San Jorge
+https://asucap.com/livestream/asucap_envivo.m3u8
+#EXTINF:-1 tvg-id="VeoTelevision.co" group-title="CANALES COLOMBIA",Veo Television
+https://movil.ejeserver.com/live/veotv.m3u8
+#EXTINF:-1 tvg-id="VidaNuevaTV.co" group-title="CANALES COLOMBIA",Vida Nueva TV
+https://eu1.servers10.com:8081/vidanuevatv/index.m3u8
+#EXTINF:-1 tvg-id="ViveTV.co" group-title="CANALES COLOMBIA",Vive TV
+http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
+#EXTINF:-1 tvg-id="XEIPNTDT.mx" group-title="CANALES COLOMBIA",XEIPN-TDT
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1 tvg-id="XHSPRTDT1.mx" group-title="CANALES COLOMBIA",XHSPR-TDT1
+https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
+#EXTINF:-1 tvg-id="Zoom.co" group-title="CANALES COLOMBIA",Zoom
+#EXTVLCOPT:http-referrer=https://canalzoom.org/senal-en-vivo
+https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
+
+
+# ***** DEPORTES** 
+#EXTINF:-1 group-title="DEPORTES",ESPN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/27
+# ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/99
+#EXTINF:-1 group-title="DEPORTES",ESPN 2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/25
+# ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/97
+#EXTINF:-1 group-title="DEPORTES",ESPN 2-1
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/101
+#EXTINF:-1 group-title="DEPORTES",ESPN 3
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/26
+#EXTINF:-1 group-title="DEPORTES",ESPN 3-1
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/102
+#EXTINF:-1 group-title="DEPORTES",ESPN 4
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/28
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 1
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/31
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/32
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS  3
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/33
+#EXTINF:-1 group-title="DEPORTES",TUDN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/49
+#EXTINF:-1 group-title="DEPORTES",TVC DEPORTES
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/50
+#EXTINF:-1 group-title="DEPORTES",UK BT SPORTS 2 HD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/64
+#EXTINF:-1 group-title="DEPORTES",PPV 002
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/95
+#EXTINF:-1 group-title="DEPORTES",PPV 011
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/104
+#EXTINF:-1 group-title="DEPORTES",US MLB Network
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/126
+#EXTINF:-1 group-title="DEPORTES",US FOX DEPORTES
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/128
+#EXTINF:-1 group-title="DEPORTES",MX EUROSPORTS 1
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/139
+#EXTINF:-1 group-title="DEPORTES",EUROSPORTS 2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/140
+#EXTINF:-1 group-title="DEPORTES",ES LA LIGA
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/157
+#EXTINF:-1 group-title="DEPORTES",AR TYC SPORTS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/175
+#EXTINF:-1 group-title="DEPORTES",US Sportsnet World
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/180
+#EXTINF:-1 group-title="DEPORTES",TSN SPORTS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/181
+#EXTINF:-1 group-title="DEPORTES",TSN SPORTS 2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/182
+#EXTINF:-1 group-title="DEPORTES",TSN SPORTS 3
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/183
+#EXTINF:-1 group-title="DEPORTES",TSN SPORTS 5
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/184
+#EXTINF:-1 group-title="DEPORTES",US|FU|FS2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/310
+#EXTINF:-1 group-title="DEPORTES",CLARO SPORTS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/462
+#EXTINF:-1 group-title="DEPORTES",COL WIN SPORTS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/463
+#EXTINF:-1 group-title="DEPORTES",US WWE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/466
+#EXTINF:-1 group-title="DEPORTES",COL DIRECTV SPORTS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/467
+#EXTINF:-1 group-title="DEPORTES",DIRECTV SPORTS PLUS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/469
+#EXTINF:-1 group-title="DEPORTES",US RED BULL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/473
+#EXTINF:-1 group-title="DEPORTES",US FOX DEPORTES
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/501
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/502
+#EXTINF:-1 group-title="DEPORTES",ES MOVISTAR GOLF
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/596
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS PREMIUM MX
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/600
+#EXTINF:-1 group-title="DEPORTES",DEP_Liga MX 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/636
+# ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/639
+# ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/644
+# ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/640
+#EXTINF:-1 group-title="DEPORTES",DEP_Liga MX 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/638
+#EXTINF:-1 group-title="DEPORTES",DEP_EUROPALEAGUE 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/651
+#EXTINF:-1 group-title="DEPORTES",DEP_EUROPALEAGUE 04
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/653
+#EXTINF:-1 group-title="DEPORTES",DEP_EUROPALEAGUE 06
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/655
+#EXTINF:-1 group-title="DEPORTES",DEP_WWE 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/660
